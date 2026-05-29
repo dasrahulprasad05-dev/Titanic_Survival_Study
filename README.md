@@ -121,5 +121,5 @@ This project is part of the **CodTech Data Science Internship** program.
 
 ---
 
-<p align="center">Made with ❤️ by <b>Rahul Prasad</b> | CodTech Internship 2024</p>
+<p align="center">Made with ❤️ by <b>Rahul Prasad</b> | CodTech Internship 2026</p>
 
